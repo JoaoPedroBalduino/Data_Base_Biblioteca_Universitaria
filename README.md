@@ -4,8 +4,6 @@ Este projeto simula o funcionamento básico de um sistema de biblioteca universi
 
 ---
 
-![alt text](image-1.png)
-
 ## 🗂️ Funcionalidades
 
 - Cadastro de **cursos**, **alunos**, **livros** e **categorias de livros**
@@ -18,6 +16,8 @@ Este projeto simula o funcionamento básico de um sistema de biblioteca universi
   - Agrupamentos com `GROUP BY` e `HAVING`
   - Ordenação com `ORDER BY`
   - Funções agregadas (`COUNT`, `SUM`, `AVG`, `MAX`, `MIN`)
+
+![alt text](https://cdn.discordapp.com/attachments/948716873258774561/1368025627571130388/image.png?ex=6816b8a6&is=68156726&hm=de0efe4fff50632ef76c62e9586169409270adeb027338fc7c2e66d296c12687&)
 
 ---
 
@@ -37,6 +37,8 @@ Este projeto simula o funcionamento básico de um sistema de biblioteca universi
 - Relacionamentos entre entidades
 - Manipulação de dados com `INSERT`, `UPDATE`, `DELETE`
 - Consultas complexas com `JOIN`, filtros e agrupamentos
+
+![alt text](https://cdn.discordapp.com/attachments/948716873258774561/1368025823897976902/image.png?ex=6816b8d5&is=68156755&hm=a39f405313d768f7f2036141bf15865fbb36d6259997e3baec422a3328b59b12&)
 
 ---
 
