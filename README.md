@@ -1,6 +1,11 @@
 # 📚 Sistema de Biblioteca Universitária – SQL
 
 Este projeto simula o funcionamento básico de um sistema de biblioteca universitária. Ele foi desenvolvido utilizando comandos **SQL (DDL e DML)** e cobre desde a criação das tabelas até consultas com diferentes níveis de complexidade.
+---
+
+## 📽️ Video de Apresentação 
+- https://www.youtube.com/watch?v=M1UaxMOyZkY
+
 
 ---
 
@@ -47,6 +52,3 @@ Este projeto simula o funcionamento básico de um sistema de biblioteca universi
 - Um SGBD como **MySQL**, **PostgreSQL** ou **SQLite** para rodar os scripts
 - Ferramenta de interface como **DBeaver**, **HeidiSQL**, **MySQL Workbench** ou **psql** (terminal)
 ---
-
-## 📽️ Video de Apresentação 
-- https://www.youtube.com/watch?v=M1UaxMOyZkY
